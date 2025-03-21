@@ -107,7 +107,8 @@ Here are some additional resources that helped me understand the concepts better
 2. [VCF & gVCF](https://youtu.be/cBDZSGf9HRE?si=Oi5WkQCZrxhDuw40)
 3. [SAM/BAM](https://youtu.be/vh6l9aPFUgU?si=F_T-ltv6TPh00Lc9)
 4. [GFF3 & GTF](https://youtu.be/vh6l9aPFUgU?si=F_T-ltv6TPh00Lc9)
-
+4. [GFF3 & GTF](https://www.youtube.com/watch?v=2Y7zxh1BiFs)
+   
 
 - **Reflection:** Post some interesting facts about the file formats that you learned today on the discussion panel
 
